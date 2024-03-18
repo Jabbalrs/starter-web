@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+   Ravinder Jabbal   ravinder.jabbal@fincleartech.com.au   @ravinderJ
+   
 # THANKS
 
     <name>
